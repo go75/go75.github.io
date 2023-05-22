@@ -126,6 +126,7 @@ sub {
 
 /* 让链接在 hover 状态下显示下划线 */
 a {
+  font-size: 12px;
   color: #1abc9c;
 }
 
