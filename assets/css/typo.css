@@ -240,6 +240,10 @@ strong, b {
   margin-bottom: 1.2em
 }
 
+i {
+  width: 20px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
   font-weight: 100;
