@@ -14,10 +14,6 @@ body {
     margin-right: .3em; }
   body .info-unit {
     margin-bottom: 1rem; }
-    body .info-unit h2 {
-      font-weight: 700; }
-    body .info-unit h3 {
-      font-weight: 300; }
 
 /* -------------------------------------------------
  * 头部部分
@@ -104,9 +100,7 @@ body {
     .container .main .info-unit ul li {
       margin-bottom: 1rem;
       list-style: disc; }
-      .container .main .info-unit ul li h3 .link {
-        font-size: 10px;
-        border: 1px solid #4db6ac;
+      .container .main .info-unit ul li h3 {
         padding: 1px 3px;
         -webkit-border-radius: 5px;
         border-radius: 5px;
@@ -137,12 +131,6 @@ body {
  * ------------------------------------------------- */
 .fa {
   font-size: 1.2em; }
-
-h2 {
-  font-size: 1.2em; }
-
-h3 {
-  font-size: 1.1em; }
 
 hr {
   margin-bottom: .4em; }
@@ -195,7 +183,7 @@ mark {
   .container .info-unit h3 span {
     display: block; }
 
-  .container .info-unit h3 span.link {
+  .container .info-unit h3 {
     display: inline; }
 
   .container .project h3 span {
