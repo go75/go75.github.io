@@ -108,10 +108,10 @@ body {
       .container .main .info-unit ul li h3 time {
         text-align: right;
         float: right; }
-      .container .main .info-unit ul li .info-content li {
+      .container .main .info-unit ul li li {
         list-style: circle;
         margin: 0; }
-      .container .main .info-unit ul li .info-content .fa {
+      .container .main .info-unit ul li .fa {
         font-size: 1em; }
 
 /* -------------------------------------------------
